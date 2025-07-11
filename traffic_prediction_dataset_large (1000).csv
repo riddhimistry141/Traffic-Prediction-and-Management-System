@@ -1,0 +1,1001 @@
+ID,Timestamp,Location,Traffic_Volume,Average_Speed_kmph,Road_Condition,Weather,Day_of_Week,Incident_Reported
+1,08:00:00,Route 66,538,31,Dry,Clear,Monday,No
+2,09:00:00,Highway A1,1854,62,Congested,Sunny,Thursday,No
+3,10:00:00,City Road B,847,46,Dry,Cloudy,Monday,Yes
+4,11:00:00,Main Street,1741,44,Dry,Cloudy,Saturday,No
+5,12:00:00,Interstate 5,1998,64,Congested,Sunny,Tuesday,Yes
+6,13:00:00,City Road B,1272,51,Dry,Sunny,Thursday,No
+7,14:00:00,Interstate 5,1070,52,Wet,Cloudy,Sunday,Yes
+8,15:00:00,Route 66,1658,45,Dry,Rainy,Saturday,Yes
+9,16:00:00,Route 66,1354,70,Wet,Cloudy,Tuesday,No
+10,17:00:00,Route 66,1891,57,Wet,Sunny,Wednesday,Yes
+11,18:00:00,Park Avenue,866,45,Congested,Foggy,Tuesday,Yes
+12,19:00:00,Interstate 5,1846,42,Dry,Clear,Wednesday,No
+13,20:00:00,Highway A1,875,48,Wet,Foggy,Tuesday,Yes
+14,21:00:00,Park Avenue,772,37,Dry,Clear,Thursday,No
+15,22:00:00,Main Street,788,56,Wet,Foggy,Saturday,Yes
+16,23:00:00,Main Street,1691,77,Congested,Sunny,Sunday,No
+17,00:00:00,Park Avenue,1181,57,Dry,Foggy,Thursday,Yes
+18,01:00:00,Highway A1,631,62,Wet,Foggy,Monday,No
+19,02:00:00,Interstate 5,1260,59,Dry,Foggy,Friday,Yes
+20,03:00:00,Interstate 5,1143,71,Dry,Foggy,Saturday,No
+21,04:00:00,Central Boulevard,990,44,Congested,Clear,Saturday,Yes
+22,05:00:00,Highway A1,1283,38,Dry,Clear,Thursday,Yes
+23,06:00:00,Highway A1,1553,35,Congested,Rainy,Monday,No
+24,07:00:00,Central Boulevard,1684,42,Congested,Cloudy,Sunday,No
+25,08:00:00,Main Street,1154,58,Dry,Cloudy,Thursday,Yes
+26,09:00:00,Interstate 5,503,69,Wet,Foggy,Sunday,No
+27,10:00:00,Route 66,1555,47,Wet,Rainy,Saturday,Yes
+28,11:00:00,City Road B,771,55,Dry,Foggy,Monday,No
+29,12:00:00,Interstate 5,703,73,Wet,Sunny,Friday,No
+30,13:00:00,Interstate 5,1654,56,Dry,Foggy,Saturday,No
+31,14:00:00,Route 66,1282,69,Wet,Cloudy,Monday,Yes
+32,15:00:00,Central Boulevard,1347,38,Congested,Rainy,Wednesday,Yes
+33,16:00:00,Park Avenue,1472,69,Congested,Cloudy,Monday,No
+34,17:00:00,Interstate 5,980,70,Congested,Clear,Sunday,No
+35,18:00:00,City Road B,1556,52,Wet,Sunny,Sunday,No
+36,19:00:00,Route 66,1659,48,Dry,Sunny,Friday,No
+37,20:00:00,Highway A1,1724,58,Dry,Sunny,Wednesday,No
+38,21:00:00,Highway A1,774,58,Dry,Foggy,Saturday,No
+39,22:00:00,Central Boulevard,1836,78,Wet,Foggy,Tuesday,Yes
+40,23:00:00,Interstate 5,1143,55,Congested,Sunny,Friday,No
+41,00:00:00,City Road B,1533,78,Dry,Sunny,Friday,No
+42,01:00:00,Highway A1,1577,44,Wet,Sunny,Tuesday,Yes
+43,02:00:00,Highway A1,1109,53,Wet,Sunny,Friday,Yes
+44,03:00:00,Interstate 5,1384,78,Dry,Cloudy,Tuesday,No
+45,04:00:00,Park Avenue,1640,47,Congested,Cloudy,Wednesday,No
+46,05:00:00,City Road B,1908,40,Wet,Rainy,Sunday,No
+47,06:00:00,Highway A1,725,70,Congested,Sunny,Sunday,Yes
+48,07:00:00,Central Boulevard,1981,39,Congested,Clear,Monday,Yes
+49,08:00:00,City Road B,698,43,Dry,Foggy,Monday,Yes
+50,09:00:00,City Road B,2000,48,Congested,Clear,Wednesday,No
+51,10:00:00,Highway A1,1674,53,Dry,Foggy,Friday,Yes
+52,11:00:00,Main Street,1690,51,Congested,Rainy,Thursday,Yes
+53,12:00:00,Route 66,1732,63,Wet,Clear,Monday,No
+54,13:00:00,City Road B,553,46,Wet,Cloudy,Sunday,No
+55,14:00:00,Interstate 5,1414,69,Congested,Cloudy,Sunday,Yes
+56,15:00:00,Central Boulevard,1711,48,Dry,Clear,Tuesday,Yes
+57,16:00:00,Main Street,1954,66,Congested,Foggy,Tuesday,Yes
+58,17:00:00,Highway A1,1328,36,Congested,Sunny,Saturday,No
+59,18:00:00,Main Street,1050,70,Dry,Foggy,Thursday,No
+60,19:00:00,Route 66,559,73,Wet,Sunny,Sunday,No
+61,20:00:00,Interstate 5,1446,62,Wet,Cloudy,Friday,No
+62,21:00:00,City Road B,1473,62,Dry,Rainy,Sunday,No
+63,22:00:00,City Road B,1988,44,Wet,Cloudy,Monday,No
+64,23:00:00,Main Street,947,62,Dry,Clear,Tuesday,Yes
+65,00:00:00,Route 66,1478,74,Dry,Foggy,Monday,Yes
+66,01:00:00,Route 66,634,52,Wet,Cloudy,Sunday,No
+67,02:00:00,Park Avenue,1971,74,Congested,Foggy,Saturday,No
+68,03:00:00,Route 66,1677,36,Wet,Clear,Thursday,No
+69,04:00:00,Main Street,1749,67,Dry,Sunny,Tuesday,No
+70,05:00:00,Route 66,1759,73,Wet,Cloudy,Monday,Yes
+71,06:00:00,Park Avenue,1627,54,Dry,Rainy,Thursday,No
+72,07:00:00,Main Street,517,30,Wet,Clear,Friday,Yes
+73,08:00:00,Route 66,1733,69,Dry,Foggy,Tuesday,No
+74,09:00:00,Interstate 5,1070,41,Congested,Foggy,Wednesday,No
+75,10:00:00,Central Boulevard,978,50,Dry,Cloudy,Thursday,No
+76,11:00:00,Main Street,1527,38,Wet,Cloudy,Saturday,Yes
+77,12:00:00,Route 66,888,64,Congested,Cloudy,Friday,Yes
+78,13:00:00,Main Street,1729,40,Congested,Cloudy,Wednesday,Yes
+79,14:00:00,Highway A1,1400,59,Wet,Foggy,Wednesday,No
+80,15:00:00,Route 66,1025,43,Dry,Foggy,Saturday,Yes
+81,16:00:00,Main Street,1566,47,Wet,Rainy,Tuesday,Yes
+82,17:00:00,Park Avenue,1847,71,Congested,Sunny,Monday,No
+83,18:00:00,Route 66,1471,71,Wet,Rainy,Monday,No
+84,19:00:00,Main Street,1884,48,Congested,Rainy,Monday,No
+85,20:00:00,City Road B,1774,47,Dry,Cloudy,Monday,Yes
+86,21:00:00,City Road B,869,78,Congested,Clear,Saturday,Yes
+87,22:00:00,Main Street,1811,70,Congested,Foggy,Tuesday,No
+88,23:00:00,Interstate 5,935,54,Dry,Clear,Thursday,No
+89,00:00:00,Park Avenue,1844,77,Congested,Cloudy,Wednesday,No
+90,01:00:00,Park Avenue,504,31,Congested,Rainy,Wednesday,Yes
+91,02:00:00,City Road B,1002,43,Dry,Cloudy,Saturday,Yes
+92,03:00:00,Main Street,1355,44,Congested,Cloudy,Sunday,Yes
+93,04:00:00,Route 66,1660,33,Congested,Rainy,Monday,Yes
+94,05:00:00,Park Avenue,707,50,Dry,Rainy,Saturday,No
+95,06:00:00,Highway A1,1234,42,Congested,Cloudy,Wednesday,No
+96,07:00:00,Route 66,1625,45,Dry,Rainy,Monday,Yes
+97,08:00:00,Highway A1,1434,50,Congested,Foggy,Saturday,No
+98,09:00:00,Interstate 5,802,73,Dry,Sunny,Wednesday,Yes
+99,10:00:00,City Road B,1583,70,Congested,Clear,Sunday,No
+100,11:00:00,Route 66,1761,77,Wet,Sunny,Thursday,No
+101,12:00:00,Main Street,569,46,Wet,Clear,Sunday,No
+102,13:00:00,Central Boulevard,788,49,Congested,Foggy,Saturday,Yes
+103,14:00:00,Park Avenue,1063,67,Wet,Rainy,Monday,Yes
+104,15:00:00,Central Boulevard,892,35,Dry,Sunny,Sunday,No
+105,16:00:00,Park Avenue,560,54,Wet,Cloudy,Sunday,No
+106,17:00:00,Central Boulevard,971,35,Congested,Foggy,Monday,No
+107,18:00:00,Highway A1,875,79,Wet,Rainy,Tuesday,Yes
+108,19:00:00,City Road B,1518,64,Congested,Clear,Thursday,No
+109,20:00:00,Interstate 5,1941,38,Dry,Clear,Saturday,Yes
+110,21:00:00,City Road B,1859,67,Wet,Rainy,Saturday,No
+111,22:00:00,City Road B,1759,38,Dry,Rainy,Thursday,No
+112,23:00:00,Highway A1,1956,55,Wet,Cloudy,Friday,Yes
+113,00:00:00,Park Avenue,1760,33,Wet,Clear,Sunday,Yes
+114,01:00:00,Highway A1,1036,59,Wet,Sunny,Saturday,Yes
+115,02:00:00,Route 66,1215,77,Congested,Sunny,Wednesday,No
+116,03:00:00,Route 66,628,78,Dry,Clear,Friday,Yes
+117,04:00:00,Interstate 5,816,61,Wet,Rainy,Thursday,Yes
+118,05:00:00,Central Boulevard,542,36,Wet,Sunny,Sunday,Yes
+119,06:00:00,Highway A1,1728,72,Dry,Foggy,Monday,No
+120,07:00:00,City Road B,1346,59,Dry,Clear,Friday,No
+121,08:00:00,Route 66,1558,50,Dry,Foggy,Monday,No
+122,09:00:00,City Road B,700,35,Dry,Rainy,Tuesday,No
+123,10:00:00,Interstate 5,1782,44,Wet,Cloudy,Sunday,Yes
+124,11:00:00,City Road B,945,51,Dry,Sunny,Thursday,No
+125,12:00:00,Highway A1,1209,56,Wet,Rainy,Sunday,No
+126,13:00:00,Park Avenue,1051,74,Dry,Foggy,Friday,No
+127,14:00:00,Park Avenue,1064,61,Wet,Cloudy,Tuesday,No
+128,15:00:00,Interstate 5,555,77,Wet,Cloudy,Thursday,No
+129,16:00:00,Central Boulevard,1573,57,Congested,Clear,Thursday,Yes
+130,17:00:00,City Road B,1583,40,Dry,Sunny,Monday,Yes
+131,18:00:00,Highway A1,1201,53,Congested,Cloudy,Saturday,No
+132,19:00:00,Park Avenue,1707,79,Dry,Cloudy,Sunday,No
+133,20:00:00,Highway A1,970,52,Congested,Clear,Monday,No
+134,21:00:00,City Road B,542,52,Wet,Clear,Sunday,Yes
+135,22:00:00,Park Avenue,1125,79,Wet,Cloudy,Saturday,Yes
+136,23:00:00,City Road B,1055,35,Dry,Sunny,Friday,Yes
+137,00:00:00,Central Boulevard,1717,40,Congested,Clear,Tuesday,No
+138,01:00:00,City Road B,1524,52,Wet,Rainy,Saturday,No
+139,02:00:00,Central Boulevard,501,35,Wet,Sunny,Sunday,No
+140,03:00:00,City Road B,676,69,Dry,Cloudy,Monday,Yes
+141,04:00:00,Highway A1,1401,36,Wet,Sunny,Thursday,Yes
+142,05:00:00,Main Street,1739,56,Wet,Rainy,Monday,No
+143,06:00:00,Highway A1,862,39,Congested,Clear,Sunday,Yes
+144,07:00:00,Highway A1,820,64,Wet,Sunny,Monday,No
+145,08:00:00,City Road B,1037,43,Wet,Rainy,Friday,No
+146,09:00:00,Interstate 5,1378,42,Congested,Foggy,Saturday,Yes
+147,10:00:00,Route 66,1187,44,Wet,Cloudy,Sunday,No
+148,11:00:00,Central Boulevard,688,50,Dry,Cloudy,Thursday,Yes
+149,12:00:00,City Road B,1186,36,Congested,Sunny,Thursday,Yes
+150,13:00:00,City Road B,659,43,Wet,Clear,Friday,Yes
+151,14:00:00,Highway A1,632,74,Wet,Cloudy,Thursday,Yes
+152,15:00:00,City Road B,1746,48,Wet,Foggy,Saturday,No
+153,16:00:00,Park Avenue,1489,66,Wet,Rainy,Saturday,Yes
+154,17:00:00,Park Avenue,905,68,Wet,Rainy,Saturday,No
+155,18:00:00,Highway A1,1272,67,Dry,Foggy,Thursday,Yes
+156,19:00:00,Central Boulevard,1814,57,Wet,Rainy,Wednesday,No
+157,20:00:00,Route 66,1559,33,Wet,Rainy,Monday,Yes
+158,21:00:00,Main Street,1828,78,Dry,Sunny,Thursday,No
+159,22:00:00,City Road B,1849,60,Dry,Rainy,Monday,No
+160,23:00:00,Central Boulevard,1872,71,Wet,Clear,Monday,Yes
+161,00:00:00,Main Street,908,69,Wet,Rainy,Thursday,No
+162,01:00:00,Central Boulevard,1079,36,Congested,Sunny,Friday,No
+163,02:00:00,Route 66,1854,71,Wet,Foggy,Thursday,No
+164,03:00:00,Park Avenue,885,60,Wet,Rainy,Wednesday,Yes
+165,04:00:00,Park Avenue,1592,55,Congested,Foggy,Friday,Yes
+166,05:00:00,Park Avenue,1771,78,Congested,Foggy,Saturday,No
+167,06:00:00,Highway A1,962,39,Dry,Clear,Wednesday,Yes
+168,07:00:00,Highway A1,1900,30,Congested,Sunny,Tuesday,Yes
+169,08:00:00,City Road B,1516,46,Dry,Sunny,Monday,Yes
+170,09:00:00,Park Avenue,1761,68,Dry,Rainy,Thursday,Yes
+171,10:00:00,City Road B,730,45,Congested,Cloudy,Sunday,Yes
+172,11:00:00,Central Boulevard,714,59,Wet,Foggy,Thursday,Yes
+173,12:00:00,Route 66,1723,41,Congested,Clear,Friday,Yes
+174,13:00:00,Interstate 5,1984,41,Congested,Foggy,Sunday,No
+175,14:00:00,Highway A1,1270,37,Dry,Cloudy,Friday,Yes
+176,15:00:00,Park Avenue,805,46,Wet,Cloudy,Friday,Yes
+177,16:00:00,Main Street,1158,55,Congested,Foggy,Friday,No
+178,17:00:00,Route 66,1016,47,Wet,Foggy,Monday,No
+179,18:00:00,Main Street,1174,39,Congested,Cloudy,Sunday,Yes
+180,19:00:00,Central Boulevard,1533,63,Congested,Foggy,Friday,Yes
+181,20:00:00,Park Avenue,1541,67,Dry,Clear,Tuesday,Yes
+182,21:00:00,Main Street,1921,31,Congested,Clear,Wednesday,No
+183,22:00:00,Park Avenue,1686,56,Dry,Rainy,Saturday,Yes
+184,23:00:00,Central Boulevard,1291,76,Congested,Sunny,Thursday,No
+185,00:00:00,Central Boulevard,1142,41,Congested,Cloudy,Tuesday,No
+186,01:00:00,City Road B,1193,51,Congested,Foggy,Monday,No
+187,02:00:00,Interstate 5,1503,59,Wet,Rainy,Monday,No
+188,03:00:00,Highway A1,1433,68,Congested,Sunny,Saturday,No
+189,04:00:00,Park Avenue,1628,54,Congested,Clear,Tuesday,Yes
+190,05:00:00,Highway A1,909,60,Dry,Rainy,Tuesday,Yes
+191,06:00:00,Highway A1,909,54,Congested,Foggy,Thursday,No
+192,07:00:00,Highway A1,759,66,Congested,Rainy,Sunday,Yes
+193,08:00:00,Central Boulevard,1711,34,Wet,Cloudy,Friday,No
+194,09:00:00,Highway A1,1467,30,Dry,Sunny,Wednesday,Yes
+195,10:00:00,Highway A1,1711,61,Congested,Foggy,Wednesday,No
+196,11:00:00,Central Boulevard,1810,71,Congested,Clear,Monday,No
+197,12:00:00,City Road B,1453,36,Congested,Cloudy,Tuesday,No
+198,13:00:00,Route 66,984,48,Congested,Sunny,Monday,No
+199,14:00:00,Route 66,1427,31,Wet,Sunny,Sunday,No
+200,15:00:00,City Road B,719,72,Dry,Cloudy,Tuesday,No
+201,16:00:00,City Road B,835,73,Wet,Sunny,Thursday,Yes
+202,17:00:00,Interstate 5,1910,45,Congested,Foggy,Tuesday,No
+203,18:00:00,Highway A1,1924,42,Dry,Sunny,Saturday,No
+204,19:00:00,Park Avenue,1547,39,Wet,Rainy,Wednesday,Yes
+205,20:00:00,Park Avenue,1015,30,Dry,Sunny,Wednesday,Yes
+206,21:00:00,Central Boulevard,1584,37,Dry,Cloudy,Monday,Yes
+207,22:00:00,Route 66,1505,67,Congested,Foggy,Monday,No
+208,23:00:00,Interstate 5,686,68,Wet,Clear,Friday,Yes
+209,00:00:00,Main Street,802,59,Wet,Rainy,Tuesday,Yes
+210,01:00:00,Central Boulevard,1517,35,Dry,Clear,Monday,Yes
+211,02:00:00,Route 66,997,34,Wet,Rainy,Monday,No
+212,03:00:00,Route 66,1128,44,Congested,Rainy,Thursday,Yes
+213,04:00:00,Highway A1,1491,73,Dry,Sunny,Tuesday,No
+214,05:00:00,Route 66,1186,35,Congested,Rainy,Sunday,Yes
+215,06:00:00,Park Avenue,913,62,Congested,Cloudy,Sunday,Yes
+216,07:00:00,Highway A1,1650,71,Congested,Cloudy,Thursday,No
+217,08:00:00,Highway A1,1103,39,Congested,Rainy,Wednesday,No
+218,09:00:00,Route 66,856,33,Dry,Cloudy,Wednesday,Yes
+219,10:00:00,Highway A1,1208,76,Wet,Sunny,Wednesday,No
+220,11:00:00,Route 66,1179,47,Wet,Clear,Thursday,No
+221,12:00:00,Route 66,508,74,Congested,Foggy,Wednesday,Yes
+222,13:00:00,Highway A1,859,47,Dry,Foggy,Saturday,No
+223,14:00:00,Main Street,1121,55,Wet,Sunny,Wednesday,No
+224,15:00:00,Central Boulevard,1926,67,Congested,Cloudy,Saturday,Yes
+225,16:00:00,Central Boulevard,1878,48,Dry,Rainy,Tuesday,No
+226,17:00:00,Highway A1,1473,42,Wet,Foggy,Thursday,Yes
+227,18:00:00,Central Boulevard,559,58,Dry,Foggy,Sunday,Yes
+228,19:00:00,Central Boulevard,914,61,Congested,Clear,Tuesday,No
+229,20:00:00,Central Boulevard,847,58,Dry,Clear,Sunday,No
+230,21:00:00,City Road B,776,40,Congested,Foggy,Saturday,No
+231,22:00:00,Interstate 5,1198,69,Wet,Cloudy,Thursday,No
+232,23:00:00,Highway A1,675,69,Dry,Clear,Thursday,No
+233,00:00:00,Route 66,1081,59,Wet,Rainy,Thursday,No
+234,01:00:00,Park Avenue,920,30,Wet,Sunny,Tuesday,No
+235,02:00:00,Park Avenue,1795,48,Congested,Foggy,Sunday,No
+236,03:00:00,City Road B,927,53,Wet,Sunny,Sunday,No
+237,04:00:00,City Road B,1963,38,Congested,Rainy,Monday,Yes
+238,05:00:00,Main Street,1032,45,Congested,Clear,Monday,Yes
+239,06:00:00,Central Boulevard,1507,76,Congested,Clear,Friday,Yes
+240,07:00:00,Central Boulevard,1944,32,Congested,Foggy,Sunday,Yes
+241,08:00:00,City Road B,741,44,Congested,Rainy,Tuesday,Yes
+242,09:00:00,City Road B,1620,49,Dry,Cloudy,Thursday,Yes
+243,10:00:00,Highway A1,1724,32,Wet,Sunny,Wednesday,No
+244,11:00:00,Central Boulevard,1044,49,Congested,Sunny,Monday,No
+245,12:00:00,City Road B,1943,73,Congested,Foggy,Monday,No
+246,13:00:00,Interstate 5,550,56,Congested,Rainy,Wednesday,No
+247,14:00:00,City Road B,919,40,Wet,Foggy,Friday,No
+248,15:00:00,City Road B,739,53,Dry,Cloudy,Sunday,No
+249,16:00:00,City Road B,1423,61,Wet,Cloudy,Wednesday,No
+250,17:00:00,Highway A1,533,59,Dry,Sunny,Sunday,No
+251,18:00:00,Central Boulevard,1601,80,Wet,Cloudy,Monday,No
+252,19:00:00,City Road B,1807,49,Dry,Cloudy,Monday,No
+253,20:00:00,City Road B,1436,56,Congested,Clear,Wednesday,No
+254,21:00:00,City Road B,1066,36,Dry,Clear,Saturday,Yes
+255,22:00:00,Highway A1,919,50,Dry,Clear,Sunday,Yes
+256,23:00:00,Interstate 5,1924,80,Dry,Sunny,Wednesday,Yes
+257,00:00:00,Central Boulevard,1407,76,Dry,Rainy,Monday,No
+258,01:00:00,Route 66,902,80,Wet,Cloudy,Tuesday,Yes
+259,02:00:00,Highway A1,1876,40,Congested,Foggy,Monday,No
+260,03:00:00,Highway A1,1974,77,Congested,Sunny,Sunday,Yes
+261,04:00:00,Highway A1,586,69,Dry,Rainy,Saturday,Yes
+262,05:00:00,Main Street,1714,48,Congested,Clear,Wednesday,Yes
+263,06:00:00,Route 66,1638,74,Wet,Clear,Thursday,Yes
+264,07:00:00,Highway A1,1988,43,Dry,Rainy,Thursday,Yes
+265,08:00:00,City Road B,1313,53,Dry,Rainy,Monday,Yes
+266,09:00:00,Highway A1,1142,71,Congested,Foggy,Saturday,No
+267,10:00:00,Park Avenue,865,59,Dry,Cloudy,Thursday,No
+268,11:00:00,Interstate 5,841,75,Dry,Clear,Friday,No
+269,12:00:00,Route 66,1992,54,Congested,Clear,Sunday,Yes
+270,13:00:00,Central Boulevard,793,61,Congested,Clear,Tuesday,Yes
+271,14:00:00,Central Boulevard,889,35,Congested,Rainy,Saturday,No
+272,15:00:00,Interstate 5,1792,47,Congested,Cloudy,Wednesday,Yes
+273,16:00:00,Main Street,523,34,Congested,Foggy,Thursday,Yes
+274,17:00:00,Central Boulevard,1250,43,Wet,Cloudy,Wednesday,Yes
+275,18:00:00,Main Street,1251,37,Congested,Clear,Sunday,No
+276,19:00:00,Route 66,1612,47,Wet,Foggy,Monday,No
+277,20:00:00,Route 66,1465,36,Congested,Sunny,Sunday,No
+278,21:00:00,Route 66,1765,74,Congested,Clear,Saturday,No
+279,22:00:00,City Road B,1596,64,Congested,Rainy,Wednesday,No
+280,23:00:00,Central Boulevard,1846,56,Congested,Sunny,Saturday,No
+281,00:00:00,Route 66,1502,44,Dry,Cloudy,Thursday,No
+282,01:00:00,Interstate 5,1584,62,Congested,Cloudy,Monday,No
+283,02:00:00,Interstate 5,1673,38,Wet,Clear,Thursday,No
+284,03:00:00,City Road B,854,53,Wet,Rainy,Tuesday,Yes
+285,04:00:00,Main Street,1784,31,Dry,Cloudy,Wednesday,No
+286,05:00:00,City Road B,1301,41,Congested,Clear,Thursday,Yes
+287,06:00:00,City Road B,701,78,Dry,Cloudy,Monday,No
+288,07:00:00,Route 66,1172,78,Congested,Cloudy,Saturday,No
+289,08:00:00,Main Street,1671,36,Wet,Rainy,Friday,No
+290,09:00:00,Highway A1,1499,57,Wet,Rainy,Sunday,Yes
+291,10:00:00,Route 66,1007,80,Wet,Rainy,Thursday,Yes
+292,11:00:00,City Road B,1263,65,Dry,Cloudy,Tuesday,Yes
+293,12:00:00,Park Avenue,679,30,Dry,Foggy,Tuesday,Yes
+294,13:00:00,Interstate 5,977,66,Dry,Rainy,Monday,No
+295,14:00:00,Route 66,973,61,Wet,Clear,Monday,Yes
+296,15:00:00,Interstate 5,1957,51,Wet,Foggy,Friday,No
+297,16:00:00,Interstate 5,1618,36,Wet,Foggy,Saturday,No
+298,17:00:00,Park Avenue,1630,46,Congested,Clear,Friday,No
+299,18:00:00,Route 66,707,68,Congested,Cloudy,Friday,No
+300,19:00:00,City Road B,740,60,Dry,Cloudy,Thursday,Yes
+301,20:00:00,Route 66,946,35,Wet,Sunny,Sunday,No
+302,21:00:00,Park Avenue,1322,69,Wet,Sunny,Tuesday,Yes
+303,22:00:00,Route 66,1588,58,Congested,Clear,Friday,Yes
+304,23:00:00,City Road B,1002,68,Wet,Rainy,Thursday,No
+305,00:00:00,Central Boulevard,1965,56,Congested,Clear,Thursday,No
+306,01:00:00,City Road B,1912,61,Congested,Sunny,Sunday,No
+307,02:00:00,Interstate 5,1693,57,Congested,Sunny,Thursday,Yes
+308,03:00:00,Highway A1,983,37,Dry,Sunny,Tuesday,No
+309,04:00:00,Main Street,1429,58,Congested,Cloudy,Sunday,No
+310,05:00:00,Main Street,870,39,Wet,Sunny,Sunday,No
+311,06:00:00,Interstate 5,1178,79,Dry,Foggy,Friday,Yes
+312,07:00:00,Main Street,1878,79,Congested,Rainy,Wednesday,No
+313,08:00:00,Route 66,1999,31,Congested,Sunny,Wednesday,Yes
+314,09:00:00,Highway A1,1595,56,Dry,Sunny,Saturday,No
+315,10:00:00,Central Boulevard,1066,80,Dry,Foggy,Tuesday,No
+316,11:00:00,City Road B,1445,43,Congested,Foggy,Tuesday,Yes
+317,12:00:00,Park Avenue,1444,59,Wet,Sunny,Saturday,Yes
+318,13:00:00,Central Boulevard,1114,62,Wet,Foggy,Monday,No
+319,14:00:00,Central Boulevard,1591,35,Wet,Sunny,Thursday,Yes
+320,15:00:00,Interstate 5,757,44,Congested,Sunny,Tuesday,Yes
+321,16:00:00,Central Boulevard,1792,37,Wet,Rainy,Wednesday,No
+322,17:00:00,Interstate 5,1164,31,Dry,Sunny,Saturday,Yes
+323,18:00:00,Central Boulevard,518,45,Congested,Rainy,Saturday,No
+324,19:00:00,Highway A1,725,66,Congested,Sunny,Saturday,No
+325,20:00:00,Interstate 5,1540,66,Dry,Foggy,Friday,No
+326,21:00:00,Main Street,1273,72,Wet,Foggy,Saturday,Yes
+327,22:00:00,Interstate 5,1080,63,Dry,Foggy,Sunday,No
+328,23:00:00,Central Boulevard,615,76,Wet,Foggy,Sunday,No
+329,00:00:00,Park Avenue,1182,78,Dry,Clear,Sunday,No
+330,01:00:00,Main Street,775,40,Dry,Foggy,Tuesday,Yes
+331,02:00:00,Highway A1,1382,75,Dry,Cloudy,Friday,No
+332,03:00:00,Main Street,1820,60,Wet,Sunny,Thursday,No
+333,04:00:00,Interstate 5,743,56,Dry,Cloudy,Monday,No
+334,05:00:00,Highway A1,1653,43,Congested,Foggy,Saturday,No
+335,06:00:00,Route 66,589,59,Dry,Cloudy,Wednesday,Yes
+336,07:00:00,Central Boulevard,1423,79,Dry,Rainy,Thursday,No
+337,08:00:00,Central Boulevard,1902,63,Dry,Rainy,Wednesday,Yes
+338,09:00:00,Park Avenue,1436,50,Dry,Foggy,Monday,No
+339,10:00:00,City Road B,1479,65,Wet,Foggy,Thursday,No
+340,11:00:00,Highway A1,832,66,Dry,Sunny,Wednesday,No
+341,12:00:00,Main Street,1510,30,Congested,Sunny,Sunday,No
+342,13:00:00,Interstate 5,650,70,Dry,Cloudy,Monday,Yes
+343,14:00:00,City Road B,1848,79,Congested,Clear,Thursday,Yes
+344,15:00:00,Interstate 5,855,34,Dry,Cloudy,Wednesday,No
+345,16:00:00,Highway A1,1004,62,Dry,Foggy,Saturday,Yes
+346,17:00:00,Highway A1,1510,73,Congested,Rainy,Saturday,Yes
+347,18:00:00,Interstate 5,725,75,Congested,Rainy,Monday,No
+348,19:00:00,Highway A1,1142,49,Dry,Rainy,Wednesday,No
+349,20:00:00,Interstate 5,752,50,Congested,Foggy,Sunday,No
+350,21:00:00,Highway A1,785,38,Congested,Foggy,Tuesday,Yes
+351,22:00:00,Route 66,810,48,Congested,Cloudy,Sunday,No
+352,23:00:00,Main Street,1577,49,Dry,Cloudy,Tuesday,Yes
+353,00:00:00,Interstate 5,1526,50,Wet,Rainy,Wednesday,No
+354,01:00:00,City Road B,1593,66,Congested,Rainy,Saturday,Yes
+355,02:00:00,City Road B,1041,46,Wet,Rainy,Wednesday,Yes
+356,03:00:00,City Road B,1112,66,Dry,Clear,Monday,No
+357,04:00:00,Highway A1,1221,73,Dry,Foggy,Thursday,No
+358,05:00:00,Central Boulevard,593,73,Congested,Foggy,Monday,No
+359,06:00:00,Park Avenue,1397,70,Dry,Cloudy,Wednesday,Yes
+360,07:00:00,Park Avenue,1477,45,Dry,Cloudy,Friday,Yes
+361,08:00:00,Central Boulevard,604,59,Dry,Cloudy,Friday,No
+362,09:00:00,Park Avenue,1694,32,Wet,Clear,Thursday,Yes
+363,10:00:00,Park Avenue,945,63,Wet,Sunny,Friday,Yes
+364,11:00:00,Main Street,1447,41,Dry,Cloudy,Thursday,Yes
+365,12:00:00,Park Avenue,1428,32,Wet,Clear,Friday,Yes
+366,13:00:00,Route 66,1109,72,Dry,Rainy,Saturday,Yes
+367,14:00:00,Route 66,1871,72,Dry,Cloudy,Thursday,No
+368,15:00:00,Highway A1,1618,41,Dry,Sunny,Friday,Yes
+369,16:00:00,Park Avenue,722,35,Congested,Sunny,Sunday,Yes
+370,17:00:00,Central Boulevard,939,76,Wet,Rainy,Thursday,No
+371,18:00:00,Central Boulevard,1077,36,Wet,Sunny,Wednesday,No
+372,19:00:00,Highway A1,1711,57,Wet,Clear,Thursday,Yes
+373,20:00:00,Route 66,549,60,Wet,Sunny,Wednesday,No
+374,21:00:00,Interstate 5,1227,57,Wet,Foggy,Thursday,Yes
+375,22:00:00,Main Street,1406,36,Wet,Foggy,Tuesday,Yes
+376,23:00:00,City Road B,747,78,Wet,Clear,Thursday,Yes
+377,00:00:00,City Road B,919,30,Dry,Sunny,Wednesday,Yes
+378,01:00:00,Interstate 5,978,77,Wet,Rainy,Tuesday,Yes
+379,02:00:00,Central Boulevard,547,77,Wet,Foggy,Wednesday,No
+380,03:00:00,Route 66,1896,69,Congested,Sunny,Friday,Yes
+381,04:00:00,Interstate 5,1576,55,Congested,Clear,Saturday,Yes
+382,05:00:00,Route 66,1293,39,Wet,Foggy,Thursday,Yes
+383,06:00:00,Park Avenue,1415,49,Wet,Foggy,Monday,Yes
+384,07:00:00,City Road B,542,32,Congested,Clear,Friday,No
+385,08:00:00,Park Avenue,520,74,Dry,Foggy,Monday,Yes
+386,09:00:00,City Road B,1433,80,Wet,Foggy,Wednesday,No
+387,10:00:00,Highway A1,1435,34,Dry,Sunny,Monday,No
+388,11:00:00,Interstate 5,1747,69,Wet,Cloudy,Sunday,Yes
+389,12:00:00,Route 66,924,32,Dry,Clear,Sunday,Yes
+390,13:00:00,Main Street,1524,61,Congested,Rainy,Thursday,Yes
+391,14:00:00,Main Street,1200,57,Wet,Clear,Tuesday,No
+392,15:00:00,Highway A1,1581,66,Congested,Cloudy,Tuesday,No
+393,16:00:00,Route 66,956,64,Congested,Clear,Sunday,No
+394,17:00:00,City Road B,1542,68,Dry,Sunny,Thursday,No
+395,18:00:00,Interstate 5,1013,63,Wet,Clear,Friday,No
+396,19:00:00,Main Street,1317,61,Congested,Sunny,Thursday,Yes
+397,20:00:00,City Road B,1742,46,Dry,Cloudy,Thursday,No
+398,21:00:00,Interstate 5,619,66,Congested,Sunny,Wednesday,Yes
+399,22:00:00,Interstate 5,1097,67,Dry,Cloudy,Friday,Yes
+400,23:00:00,Central Boulevard,1478,43,Congested,Cloudy,Thursday,No
+401,00:00:00,City Road B,1097,47,Wet,Rainy,Saturday,Yes
+402,01:00:00,City Road B,1300,58,Congested,Cloudy,Sunday,Yes
+403,02:00:00,Central Boulevard,926,52,Congested,Foggy,Monday,Yes
+404,03:00:00,Park Avenue,1733,54,Congested,Rainy,Thursday,Yes
+405,04:00:00,Highway A1,1833,53,Wet,Foggy,Sunday,No
+406,05:00:00,Interstate 5,1392,72,Wet,Clear,Wednesday,Yes
+407,06:00:00,Main Street,1831,45,Dry,Cloudy,Thursday,Yes
+408,07:00:00,Park Avenue,1508,31,Wet,Rainy,Tuesday,No
+409,08:00:00,City Road B,1478,59,Wet,Clear,Thursday,No
+410,09:00:00,Main Street,845,33,Wet,Rainy,Tuesday,Yes
+411,10:00:00,Central Boulevard,1041,43,Congested,Clear,Monday,No
+412,11:00:00,Central Boulevard,1221,51,Wet,Foggy,Thursday,Yes
+413,12:00:00,Route 66,1572,57,Wet,Sunny,Wednesday,Yes
+414,13:00:00,City Road B,1368,31,Dry,Sunny,Wednesday,No
+415,14:00:00,Central Boulevard,1468,33,Wet,Rainy,Wednesday,No
+416,15:00:00,Main Street,743,55,Congested,Foggy,Thursday,Yes
+417,16:00:00,Highway A1,851,37,Wet,Foggy,Wednesday,No
+418,17:00:00,Route 66,670,80,Congested,Clear,Thursday,No
+419,18:00:00,Route 66,1437,37,Congested,Sunny,Friday,No
+420,19:00:00,Central Boulevard,1689,47,Dry,Rainy,Saturday,Yes
+421,20:00:00,Park Avenue,1729,76,Congested,Cloudy,Saturday,No
+422,21:00:00,Central Boulevard,1018,64,Wet,Foggy,Sunday,No
+423,22:00:00,City Road B,1837,33,Wet,Sunny,Saturday,No
+424,23:00:00,City Road B,637,36,Congested,Cloudy,Wednesday,No
+425,00:00:00,Route 66,1735,60,Wet,Cloudy,Monday,Yes
+426,01:00:00,City Road B,549,46,Wet,Foggy,Tuesday,Yes
+427,02:00:00,Highway A1,1145,65,Wet,Clear,Sunday,Yes
+428,03:00:00,City Road B,1525,35,Congested,Cloudy,Monday,Yes
+429,04:00:00,City Road B,507,30,Dry,Rainy,Tuesday,Yes
+430,05:00:00,Route 66,1481,76,Congested,Foggy,Saturday,Yes
+431,06:00:00,Interstate 5,1611,39,Congested,Clear,Sunday,No
+432,07:00:00,Interstate 5,749,79,Dry,Cloudy,Monday,No
+433,08:00:00,Interstate 5,1072,37,Congested,Clear,Wednesday,Yes
+434,09:00:00,Park Avenue,1758,51,Dry,Clear,Friday,No
+435,10:00:00,City Road B,1822,54,Wet,Sunny,Monday,No
+436,11:00:00,Highway A1,1355,63,Wet,Cloudy,Tuesday,No
+437,12:00:00,Interstate 5,785,55,Wet,Foggy,Friday,Yes
+438,13:00:00,Park Avenue,1019,51,Congested,Sunny,Sunday,No
+439,14:00:00,Main Street,888,71,Congested,Cloudy,Wednesday,Yes
+440,15:00:00,Interstate 5,602,67,Wet,Cloudy,Saturday,Yes
+441,16:00:00,Central Boulevard,573,62,Dry,Foggy,Saturday,Yes
+442,17:00:00,City Road B,1882,47,Wet,Clear,Tuesday,No
+443,18:00:00,Highway A1,790,59,Congested,Sunny,Saturday,Yes
+444,19:00:00,Interstate 5,1594,64,Congested,Rainy,Friday,Yes
+445,20:00:00,Highway A1,1830,65,Dry,Cloudy,Wednesday,Yes
+446,21:00:00,Route 66,683,52,Congested,Foggy,Monday,No
+447,22:00:00,Main Street,1245,72,Congested,Foggy,Monday,Yes
+448,23:00:00,City Road B,820,31,Dry,Sunny,Friday,No
+449,00:00:00,Main Street,809,48,Congested,Rainy,Tuesday,Yes
+450,01:00:00,Main Street,1698,31,Wet,Cloudy,Friday,No
+451,02:00:00,City Road B,1013,54,Wet,Foggy,Saturday,Yes
+452,03:00:00,Central Boulevard,907,62,Dry,Rainy,Monday,Yes
+453,04:00:00,Main Street,1968,57,Congested,Foggy,Wednesday,Yes
+454,05:00:00,Park Avenue,1239,69,Dry,Cloudy,Wednesday,Yes
+455,06:00:00,Central Boulevard,1907,47,Wet,Rainy,Thursday,No
+456,07:00:00,Park Avenue,846,67,Congested,Sunny,Friday,No
+457,08:00:00,City Road B,1307,38,Congested,Rainy,Friday,Yes
+458,09:00:00,Interstate 5,758,32,Congested,Clear,Wednesday,No
+459,10:00:00,Central Boulevard,1165,58,Congested,Rainy,Monday,No
+460,11:00:00,Highway A1,1121,37,Wet,Cloudy,Sunday,No
+461,12:00:00,Park Avenue,690,46,Wet,Foggy,Monday,No
+462,13:00:00,Park Avenue,1629,64,Wet,Rainy,Monday,No
+463,14:00:00,Main Street,730,44,Congested,Clear,Thursday,Yes
+464,15:00:00,Route 66,1150,79,Dry,Foggy,Monday,Yes
+465,16:00:00,Interstate 5,1210,45,Dry,Clear,Tuesday,Yes
+466,17:00:00,Park Avenue,790,42,Congested,Cloudy,Thursday,No
+467,18:00:00,Interstate 5,1261,63,Dry,Clear,Thursday,No
+468,19:00:00,Highway A1,1196,40,Congested,Sunny,Friday,No
+469,20:00:00,Route 66,589,41,Wet,Clear,Thursday,Yes
+470,21:00:00,Central Boulevard,1940,60,Wet,Sunny,Sunday,No
+471,22:00:00,City Road B,1096,52,Wet,Sunny,Wednesday,Yes
+472,23:00:00,Highway A1,862,54,Wet,Clear,Sunday,Yes
+473,00:00:00,Highway A1,1099,43,Dry,Clear,Sunday,Yes
+474,01:00:00,Central Boulevard,1901,69,Wet,Foggy,Sunday,Yes
+475,02:00:00,Route 66,781,56,Dry,Clear,Wednesday,No
+476,03:00:00,Route 66,555,31,Congested,Cloudy,Friday,No
+477,04:00:00,Main Street,1274,34,Congested,Clear,Tuesday,Yes
+478,05:00:00,Park Avenue,1172,30,Congested,Foggy,Monday,No
+479,06:00:00,Park Avenue,1730,74,Congested,Cloudy,Saturday,No
+480,07:00:00,Central Boulevard,742,43,Dry,Foggy,Sunday,Yes
+481,08:00:00,Interstate 5,1853,68,Dry,Clear,Tuesday,No
+482,09:00:00,Highway A1,1453,50,Dry,Rainy,Saturday,No
+483,10:00:00,City Road B,826,77,Congested,Cloudy,Tuesday,Yes
+484,11:00:00,Interstate 5,985,73,Congested,Cloudy,Friday,Yes
+485,12:00:00,Park Avenue,872,38,Congested,Cloudy,Thursday,No
+486,13:00:00,Interstate 5,1408,72,Wet,Rainy,Sunday,Yes
+487,14:00:00,Central Boulevard,1835,39,Congested,Clear,Tuesday,No
+488,15:00:00,Main Street,755,34,Congested,Clear,Sunday,No
+489,16:00:00,Park Avenue,556,40,Congested,Foggy,Saturday,No
+490,17:00:00,Interstate 5,519,41,Congested,Clear,Monday,Yes
+491,18:00:00,Route 66,1981,48,Congested,Foggy,Tuesday,No
+492,19:00:00,City Road B,977,32,Congested,Foggy,Tuesday,No
+493,20:00:00,Interstate 5,920,65,Wet,Sunny,Wednesday,Yes
+494,21:00:00,Central Boulevard,643,48,Wet,Clear,Monday,Yes
+495,22:00:00,Highway A1,1633,58,Congested,Clear,Thursday,Yes
+496,23:00:00,Main Street,1714,66,Congested,Cloudy,Friday,No
+497,00:00:00,Central Boulevard,534,55,Congested,Foggy,Tuesday,Yes
+498,01:00:00,Central Boulevard,1476,33,Dry,Foggy,Monday,Yes
+499,02:00:00,Park Avenue,1791,71,Dry,Rainy,Tuesday,No
+500,03:00:00,Central Boulevard,1385,33,Wet,Sunny,Saturday,No
+501,04:00:00,Central Boulevard,1533,79,Congested,Rainy,Monday,No
+502,05:00:00,Park Avenue,1804,35,Dry,Sunny,Tuesday,No
+503,06:00:00,Route 66,1774,78,Wet,Clear,Wednesday,Yes
+504,07:00:00,Central Boulevard,1353,73,Congested,Cloudy,Wednesday,Yes
+505,08:00:00,Central Boulevard,1577,32,Dry,Clear,Friday,Yes
+506,09:00:00,Interstate 5,1071,70,Dry,Rainy,Monday,No
+507,10:00:00,Interstate 5,1248,61,Congested,Clear,Sunday,No
+508,11:00:00,Central Boulevard,1346,57,Wet,Rainy,Wednesday,Yes
+509,12:00:00,City Road B,1717,78,Dry,Cloudy,Thursday,Yes
+510,13:00:00,Highway A1,1271,31,Congested,Cloudy,Sunday,No
+511,14:00:00,Route 66,1301,49,Dry,Cloudy,Thursday,No
+512,15:00:00,Central Boulevard,1691,59,Dry,Sunny,Thursday,No
+513,16:00:00,Highway A1,1464,36,Dry,Sunny,Monday,Yes
+514,17:00:00,Park Avenue,647,46,Wet,Foggy,Thursday,Yes
+515,18:00:00,Main Street,1081,43,Dry,Clear,Tuesday,No
+516,19:00:00,City Road B,765,52,Dry,Cloudy,Friday,No
+517,20:00:00,City Road B,1504,43,Wet,Rainy,Monday,No
+518,21:00:00,Central Boulevard,1137,79,Dry,Cloudy,Thursday,Yes
+519,22:00:00,Interstate 5,1238,66,Wet,Sunny,Tuesday,No
+520,23:00:00,City Road B,1637,57,Wet,Foggy,Sunday,No
+521,00:00:00,Main Street,1851,50,Dry,Foggy,Thursday,No
+522,01:00:00,Route 66,673,45,Congested,Rainy,Saturday,Yes
+523,02:00:00,Park Avenue,704,51,Dry,Cloudy,Friday,No
+524,03:00:00,City Road B,1416,62,Congested,Rainy,Sunday,Yes
+525,04:00:00,Highway A1,1962,41,Congested,Clear,Tuesday,Yes
+526,05:00:00,Park Avenue,673,58,Congested,Cloudy,Sunday,Yes
+527,06:00:00,City Road B,1166,36,Congested,Sunny,Wednesday,No
+528,07:00:00,Route 66,729,53,Congested,Rainy,Saturday,No
+529,08:00:00,Central Boulevard,1350,79,Congested,Foggy,Tuesday,Yes
+530,09:00:00,Highway A1,674,74,Congested,Sunny,Saturday,No
+531,10:00:00,Interstate 5,1907,69,Congested,Clear,Sunday,No
+532,11:00:00,City Road B,1864,78,Wet,Clear,Wednesday,No
+533,12:00:00,Highway A1,1763,62,Wet,Cloudy,Thursday,Yes
+534,13:00:00,Park Avenue,1659,69,Wet,Clear,Tuesday,Yes
+535,14:00:00,Main Street,1653,56,Congested,Sunny,Tuesday,No
+536,15:00:00,Main Street,1145,48,Wet,Rainy,Wednesday,Yes
+537,16:00:00,Highway A1,837,74,Wet,Sunny,Thursday,No
+538,17:00:00,City Road B,1718,33,Congested,Rainy,Friday,No
+539,18:00:00,Central Boulevard,1036,71,Wet,Rainy,Friday,Yes
+540,19:00:00,Highway A1,917,52,Wet,Cloudy,Sunday,Yes
+541,20:00:00,Route 66,883,76,Congested,Rainy,Saturday,No
+542,21:00:00,City Road B,512,36,Congested,Foggy,Friday,Yes
+543,22:00:00,Main Street,1142,47,Wet,Rainy,Thursday,Yes
+544,23:00:00,Park Avenue,549,57,Dry,Sunny,Friday,No
+545,00:00:00,Main Street,723,47,Congested,Sunny,Thursday,No
+546,01:00:00,Route 66,1230,72,Dry,Rainy,Friday,No
+547,02:00:00,Park Avenue,1468,47,Wet,Rainy,Friday,Yes
+548,03:00:00,Main Street,1236,59,Wet,Sunny,Wednesday,No
+549,04:00:00,Central Boulevard,1186,39,Dry,Clear,Sunday,No
+550,05:00:00,Interstate 5,1587,47,Wet,Rainy,Thursday,No
+551,06:00:00,Highway A1,980,66,Dry,Clear,Saturday,No
+552,07:00:00,Main Street,1554,64,Congested,Sunny,Tuesday,Yes
+553,08:00:00,Main Street,649,70,Congested,Foggy,Saturday,No
+554,09:00:00,Highway A1,1438,78,Wet,Rainy,Sunday,Yes
+555,10:00:00,City Road B,711,36,Congested,Foggy,Wednesday,No
+556,11:00:00,Central Boulevard,1318,73,Dry,Rainy,Wednesday,Yes
+557,12:00:00,Main Street,769,31,Congested,Cloudy,Friday,No
+558,13:00:00,Park Avenue,1354,65,Dry,Rainy,Sunday,No
+559,14:00:00,Central Boulevard,1621,68,Congested,Foggy,Thursday,No
+560,15:00:00,Route 66,1558,57,Wet,Clear,Thursday,Yes
+561,16:00:00,Central Boulevard,1595,37,Dry,Foggy,Monday,No
+562,17:00:00,Main Street,1385,58,Congested,Foggy,Thursday,Yes
+563,18:00:00,Central Boulevard,769,64,Wet,Rainy,Thursday,No
+564,19:00:00,Central Boulevard,1637,67,Dry,Sunny,Thursday,Yes
+565,20:00:00,Main Street,606,50,Dry,Cloudy,Thursday,No
+566,21:00:00,Interstate 5,1342,65,Wet,Cloudy,Wednesday,Yes
+567,22:00:00,City Road B,1899,61,Dry,Cloudy,Friday,Yes
+568,23:00:00,Interstate 5,522,53,Congested,Rainy,Wednesday,No
+569,00:00:00,Highway A1,1022,43,Dry,Sunny,Friday,Yes
+570,01:00:00,Park Avenue,1627,60,Congested,Clear,Saturday,No
+571,02:00:00,City Road B,1540,44,Congested,Clear,Saturday,Yes
+572,03:00:00,Central Boulevard,1211,39,Wet,Sunny,Wednesday,Yes
+573,04:00:00,Route 66,1559,72,Dry,Clear,Tuesday,No
+574,05:00:00,Main Street,793,42,Congested,Cloudy,Monday,No
+575,06:00:00,Main Street,780,49,Wet,Sunny,Sunday,Yes
+576,07:00:00,Central Boulevard,1434,57,Congested,Foggy,Sunday,Yes
+577,08:00:00,Park Avenue,791,80,Wet,Foggy,Wednesday,Yes
+578,09:00:00,Main Street,1121,30,Congested,Foggy,Tuesday,No
+579,10:00:00,Route 66,1045,60,Dry,Cloudy,Thursday,No
+580,11:00:00,Central Boulevard,926,68,Dry,Clear,Tuesday,No
+581,12:00:00,Central Boulevard,574,80,Wet,Sunny,Sunday,No
+582,13:00:00,Main Street,913,41,Congested,Rainy,Saturday,No
+583,14:00:00,Main Street,688,52,Dry,Cloudy,Saturday,No
+584,15:00:00,Interstate 5,1491,36,Dry,Sunny,Monday,No
+585,16:00:00,Interstate 5,1157,71,Congested,Foggy,Tuesday,No
+586,17:00:00,City Road B,946,44,Wet,Rainy,Thursday,No
+587,18:00:00,Interstate 5,606,41,Dry,Sunny,Wednesday,No
+588,19:00:00,Main Street,1457,31,Congested,Clear,Thursday,No
+589,20:00:00,Interstate 5,1441,79,Dry,Sunny,Tuesday,Yes
+590,21:00:00,Central Boulevard,1588,36,Wet,Clear,Friday,No
+591,22:00:00,Park Avenue,1481,59,Congested,Sunny,Monday,Yes
+592,23:00:00,Interstate 5,1794,63,Dry,Foggy,Thursday,Yes
+593,00:00:00,Main Street,1379,65,Wet,Sunny,Thursday,No
+594,01:00:00,City Road B,1218,68,Wet,Foggy,Friday,Yes
+595,02:00:00,Interstate 5,1704,31,Dry,Cloudy,Tuesday,No
+596,03:00:00,Route 66,1100,66,Dry,Sunny,Thursday,No
+597,04:00:00,Main Street,513,57,Dry,Cloudy,Tuesday,No
+598,05:00:00,City Road B,891,35,Dry,Foggy,Saturday,No
+599,06:00:00,Interstate 5,1615,66,Dry,Cloudy,Monday,No
+600,07:00:00,City Road B,1026,76,Wet,Foggy,Sunday,No
+601,08:00:00,Park Avenue,1101,37,Congested,Sunny,Tuesday,Yes
+602,09:00:00,Park Avenue,532,46,Dry,Cloudy,Wednesday,No
+603,10:00:00,Central Boulevard,715,54,Dry,Sunny,Sunday,Yes
+604,11:00:00,City Road B,1573,39,Dry,Clear,Sunday,Yes
+605,12:00:00,City Road B,1566,78,Dry,Clear,Monday,Yes
+606,13:00:00,Park Avenue,1313,33,Wet,Clear,Wednesday,No
+607,14:00:00,City Road B,1244,67,Wet,Rainy,Saturday,No
+608,15:00:00,Route 66,1897,43,Dry,Foggy,Thursday,Yes
+609,16:00:00,Route 66,933,46,Wet,Sunny,Tuesday,Yes
+610,17:00:00,Highway A1,1793,65,Wet,Rainy,Friday,Yes
+611,18:00:00,Route 66,1867,80,Wet,Cloudy,Monday,No
+612,19:00:00,Park Avenue,1733,65,Dry,Rainy,Saturday,Yes
+613,20:00:00,Route 66,539,61,Congested,Foggy,Tuesday,No
+614,21:00:00,Route 66,1741,35,Congested,Cloudy,Thursday,Yes
+615,22:00:00,Central Boulevard,971,75,Dry,Cloudy,Sunday,Yes
+616,23:00:00,Main Street,1815,47,Wet,Rainy,Thursday,Yes
+617,00:00:00,Highway A1,1671,38,Dry,Cloudy,Monday,Yes
+618,01:00:00,Interstate 5,1738,68,Dry,Rainy,Thursday,Yes
+619,02:00:00,Main Street,1948,32,Congested,Foggy,Wednesday,Yes
+620,03:00:00,Park Avenue,1836,47,Wet,Rainy,Wednesday,Yes
+621,04:00:00,Park Avenue,901,69,Dry,Rainy,Wednesday,No
+622,05:00:00,Route 66,1094,79,Dry,Clear,Monday,No
+623,06:00:00,Central Boulevard,1506,35,Wet,Rainy,Tuesday,No
+624,07:00:00,Main Street,806,31,Dry,Foggy,Monday,Yes
+625,08:00:00,City Road B,952,50,Dry,Clear,Sunday,No
+626,09:00:00,City Road B,1304,42,Dry,Rainy,Monday,Yes
+627,10:00:00,Main Street,682,60,Wet,Rainy,Wednesday,Yes
+628,11:00:00,City Road B,1341,69,Congested,Sunny,Friday,Yes
+629,12:00:00,Route 66,1030,78,Wet,Sunny,Wednesday,No
+630,13:00:00,Route 66,657,43,Wet,Rainy,Wednesday,No
+631,14:00:00,Route 66,838,41,Dry,Cloudy,Sunday,No
+632,15:00:00,Park Avenue,1235,36,Congested,Clear,Friday,Yes
+633,16:00:00,City Road B,1148,38,Dry,Clear,Tuesday,Yes
+634,17:00:00,Route 66,881,59,Dry,Clear,Tuesday,No
+635,18:00:00,Main Street,696,31,Congested,Cloudy,Wednesday,No
+636,19:00:00,City Road B,1258,61,Wet,Rainy,Wednesday,No
+637,20:00:00,Central Boulevard,1423,58,Congested,Clear,Tuesday,No
+638,21:00:00,Park Avenue,1754,45,Wet,Sunny,Tuesday,No
+639,22:00:00,City Road B,540,31,Dry,Cloudy,Wednesday,Yes
+640,23:00:00,Central Boulevard,1739,63,Dry,Cloudy,Monday,No
+641,00:00:00,Route 66,1644,57,Wet,Clear,Tuesday,Yes
+642,01:00:00,City Road B,1796,58,Congested,Cloudy,Sunday,No
+643,02:00:00,Highway A1,1961,62,Wet,Clear,Monday,No
+644,03:00:00,Main Street,584,33,Dry,Foggy,Tuesday,Yes
+645,04:00:00,City Road B,1272,34,Dry,Cloudy,Friday,Yes
+646,05:00:00,Main Street,1341,37,Wet,Clear,Friday,No
+647,06:00:00,Main Street,910,70,Dry,Sunny,Tuesday,No
+648,07:00:00,Interstate 5,591,47,Dry,Foggy,Wednesday,No
+649,08:00:00,Park Avenue,857,78,Dry,Rainy,Saturday,No
+650,09:00:00,Central Boulevard,1339,41,Dry,Clear,Saturday,Yes
+651,10:00:00,Central Boulevard,1300,77,Wet,Clear,Friday,Yes
+652,11:00:00,City Road B,1302,31,Dry,Clear,Sunday,No
+653,12:00:00,Route 66,530,52,Dry,Clear,Wednesday,No
+654,13:00:00,Interstate 5,1868,51,Dry,Cloudy,Sunday,Yes
+655,14:00:00,Park Avenue,633,71,Dry,Foggy,Saturday,No
+656,15:00:00,Central Boulevard,1672,76,Wet,Sunny,Monday,No
+657,16:00:00,Highway A1,1328,62,Dry,Sunny,Friday,No
+658,17:00:00,Park Avenue,1444,67,Dry,Cloudy,Monday,Yes
+659,18:00:00,Highway A1,1069,69,Congested,Foggy,Wednesday,No
+660,19:00:00,Interstate 5,1800,40,Dry,Cloudy,Saturday,No
+661,20:00:00,Highway A1,931,62,Wet,Clear,Sunday,No
+662,21:00:00,Highway A1,801,59,Wet,Foggy,Tuesday,Yes
+663,22:00:00,Main Street,927,73,Congested,Cloudy,Tuesday,Yes
+664,23:00:00,City Road B,1085,63,Congested,Sunny,Thursday,Yes
+665,00:00:00,Route 66,1258,48,Dry,Cloudy,Thursday,Yes
+666,01:00:00,Park Avenue,1042,59,Congested,Foggy,Monday,No
+667,02:00:00,Park Avenue,1521,48,Dry,Cloudy,Thursday,No
+668,03:00:00,Highway A1,1694,54,Wet,Sunny,Thursday,Yes
+669,04:00:00,Park Avenue,1775,54,Dry,Clear,Wednesday,No
+670,05:00:00,Highway A1,907,63,Congested,Foggy,Tuesday,No
+671,06:00:00,Central Boulevard,662,46,Dry,Cloudy,Wednesday,No
+672,07:00:00,Interstate 5,507,65,Wet,Foggy,Friday,No
+673,08:00:00,Highway A1,1185,79,Congested,Sunny,Sunday,No
+674,09:00:00,City Road B,875,50,Congested,Foggy,Monday,No
+675,10:00:00,Main Street,1437,50,Dry,Clear,Sunday,No
+676,11:00:00,City Road B,1195,39,Wet,Rainy,Monday,No
+677,12:00:00,Park Avenue,1638,38,Wet,Clear,Tuesday,Yes
+678,13:00:00,Park Avenue,1394,44,Congested,Clear,Sunday,No
+679,14:00:00,Route 66,627,71,Wet,Cloudy,Sunday,Yes
+680,15:00:00,Interstate 5,1789,79,Wet,Sunny,Tuesday,No
+681,16:00:00,Main Street,1538,59,Congested,Clear,Tuesday,No
+682,17:00:00,Route 66,1274,40,Congested,Sunny,Monday,Yes
+683,18:00:00,Route 66,1023,49,Dry,Clear,Sunday,Yes
+684,19:00:00,Route 66,1125,67,Wet,Clear,Monday,No
+685,20:00:00,Highway A1,1087,44,Wet,Cloudy,Saturday,No
+686,21:00:00,Main Street,828,70,Wet,Clear,Thursday,No
+687,22:00:00,Main Street,580,47,Dry,Sunny,Wednesday,Yes
+688,23:00:00,Highway A1,624,45,Wet,Rainy,Saturday,Yes
+689,00:00:00,Main Street,803,77,Congested,Clear,Wednesday,Yes
+690,01:00:00,Highway A1,1183,36,Congested,Foggy,Thursday,Yes
+691,02:00:00,Main Street,978,60,Congested,Clear,Saturday,Yes
+692,03:00:00,Highway A1,725,32,Congested,Rainy,Thursday,Yes
+693,04:00:00,Park Avenue,1412,74,Congested,Rainy,Friday,No
+694,05:00:00,Interstate 5,1871,31,Wet,Sunny,Thursday,No
+695,06:00:00,Interstate 5,1117,42,Congested,Sunny,Tuesday,No
+696,07:00:00,Main Street,580,30,Congested,Cloudy,Thursday,Yes
+697,08:00:00,City Road B,1231,70,Dry,Foggy,Saturday,Yes
+698,09:00:00,Interstate 5,1638,38,Dry,Sunny,Tuesday,Yes
+699,10:00:00,City Road B,1650,69,Wet,Cloudy,Wednesday,Yes
+700,11:00:00,Highway A1,1461,61,Congested,Rainy,Sunday,No
+701,12:00:00,Route 66,1083,60,Dry,Sunny,Friday,No
+702,13:00:00,Highway A1,1926,52,Dry,Rainy,Tuesday,Yes
+703,14:00:00,Interstate 5,997,77,Wet,Clear,Sunday,Yes
+704,15:00:00,Central Boulevard,1760,72,Dry,Rainy,Sunday,Yes
+705,16:00:00,Main Street,963,38,Dry,Rainy,Wednesday,No
+706,17:00:00,City Road B,1469,36,Wet,Cloudy,Thursday,Yes
+707,18:00:00,Highway A1,799,55,Wet,Sunny,Wednesday,Yes
+708,19:00:00,Central Boulevard,1279,63,Wet,Sunny,Sunday,Yes
+709,20:00:00,Main Street,674,32,Dry,Cloudy,Saturday,Yes
+710,21:00:00,City Road B,1265,58,Congested,Foggy,Sunday,No
+711,22:00:00,Central Boulevard,675,30,Wet,Cloudy,Wednesday,No
+712,23:00:00,Highway A1,954,31,Wet,Foggy,Thursday,No
+713,00:00:00,City Road B,996,41,Congested,Sunny,Thursday,No
+714,01:00:00,Highway A1,1922,56,Wet,Cloudy,Friday,Yes
+715,02:00:00,Park Avenue,1286,53,Congested,Clear,Thursday,No
+716,03:00:00,Central Boulevard,1311,36,Congested,Cloudy,Monday,No
+717,04:00:00,Park Avenue,1146,49,Dry,Sunny,Thursday,Yes
+718,05:00:00,Route 66,1654,70,Wet,Rainy,Monday,No
+719,06:00:00,City Road B,1173,32,Wet,Cloudy,Saturday,No
+720,07:00:00,Interstate 5,573,49,Congested,Rainy,Wednesday,Yes
+721,08:00:00,Main Street,861,36,Wet,Clear,Tuesday,No
+722,09:00:00,City Road B,792,41,Dry,Clear,Saturday,No
+723,10:00:00,Park Avenue,1273,31,Dry,Rainy,Friday,No
+724,11:00:00,City Road B,1970,35,Dry,Sunny,Sunday,No
+725,12:00:00,City Road B,572,59,Congested,Cloudy,Monday,Yes
+726,13:00:00,Route 66,1602,49,Congested,Foggy,Wednesday,No
+727,14:00:00,City Road B,1611,59,Congested,Foggy,Friday,No
+728,15:00:00,Main Street,738,33,Congested,Sunny,Tuesday,No
+729,16:00:00,Main Street,914,51,Wet,Cloudy,Sunday,No
+730,17:00:00,Route 66,629,40,Congested,Rainy,Tuesday,Yes
+731,18:00:00,City Road B,1133,31,Dry,Rainy,Wednesday,Yes
+732,19:00:00,Highway A1,1236,51,Dry,Foggy,Thursday,Yes
+733,20:00:00,Central Boulevard,1051,55,Wet,Rainy,Saturday,No
+734,21:00:00,City Road B,1954,72,Dry,Clear,Sunday,No
+735,22:00:00,Interstate 5,957,59,Dry,Cloudy,Monday,Yes
+736,23:00:00,Highway A1,1437,57,Congested,Clear,Thursday,Yes
+737,00:00:00,Route 66,1030,66,Congested,Foggy,Thursday,No
+738,01:00:00,Park Avenue,570,75,Dry,Sunny,Saturday,No
+739,02:00:00,Park Avenue,700,43,Congested,Clear,Monday,No
+740,03:00:00,Main Street,513,56,Dry,Foggy,Thursday,No
+741,04:00:00,Central Boulevard,1221,62,Congested,Clear,Sunday,Yes
+742,05:00:00,Park Avenue,970,50,Dry,Rainy,Monday,Yes
+743,06:00:00,Interstate 5,680,42,Congested,Clear,Friday,No
+744,07:00:00,City Road B,1213,49,Dry,Rainy,Wednesday,Yes
+745,08:00:00,City Road B,863,56,Dry,Foggy,Saturday,No
+746,09:00:00,Interstate 5,554,68,Congested,Cloudy,Thursday,Yes
+747,10:00:00,Main Street,1382,41,Dry,Foggy,Sunday,Yes
+748,11:00:00,Central Boulevard,1473,62,Dry,Foggy,Tuesday,Yes
+749,12:00:00,City Road B,1433,63,Wet,Foggy,Thursday,No
+750,13:00:00,Park Avenue,584,70,Congested,Rainy,Saturday,Yes
+751,14:00:00,Route 66,612,80,Dry,Clear,Wednesday,No
+752,15:00:00,Highway A1,737,70,Dry,Clear,Wednesday,Yes
+753,16:00:00,Park Avenue,1454,50,Wet,Cloudy,Sunday,Yes
+754,17:00:00,City Road B,710,58,Dry,Clear,Friday,Yes
+755,18:00:00,Central Boulevard,1351,54,Congested,Clear,Monday,Yes
+756,19:00:00,Main Street,1458,69,Wet,Sunny,Sunday,No
+757,20:00:00,Central Boulevard,1065,60,Dry,Rainy,Saturday,Yes
+758,21:00:00,Route 66,1448,76,Dry,Rainy,Friday,No
+759,22:00:00,Central Boulevard,809,65,Congested,Sunny,Tuesday,Yes
+760,23:00:00,Highway A1,1926,55,Dry,Clear,Thursday,No
+761,00:00:00,Interstate 5,1323,63,Congested,Foggy,Monday,Yes
+762,01:00:00,Park Avenue,1390,63,Congested,Rainy,Sunday,Yes
+763,02:00:00,City Road B,849,80,Wet,Cloudy,Tuesday,Yes
+764,03:00:00,City Road B,1463,45,Wet,Cloudy,Wednesday,Yes
+765,04:00:00,Main Street,910,42,Congested,Cloudy,Friday,No
+766,05:00:00,Interstate 5,1656,42,Wet,Clear,Thursday,Yes
+767,06:00:00,City Road B,1355,52,Dry,Rainy,Tuesday,Yes
+768,07:00:00,Central Boulevard,1618,36,Dry,Foggy,Monday,No
+769,08:00:00,Route 66,1024,65,Congested,Rainy,Sunday,No
+770,09:00:00,Highway A1,1952,67,Congested,Cloudy,Saturday,No
+771,10:00:00,City Road B,1296,43,Dry,Clear,Monday,No
+772,11:00:00,Central Boulevard,1037,52,Wet,Sunny,Saturday,Yes
+773,12:00:00,Central Boulevard,1784,63,Congested,Clear,Tuesday,No
+774,13:00:00,City Road B,1326,32,Congested,Sunny,Sunday,No
+775,14:00:00,Highway A1,941,68,Congested,Sunny,Wednesday,Yes
+776,15:00:00,Highway A1,1261,80,Dry,Sunny,Friday,Yes
+777,16:00:00,Main Street,621,48,Congested,Clear,Friday,No
+778,17:00:00,Park Avenue,1553,39,Dry,Foggy,Tuesday,No
+779,18:00:00,Central Boulevard,705,70,Dry,Clear,Wednesday,Yes
+780,19:00:00,Main Street,769,37,Congested,Clear,Tuesday,Yes
+781,20:00:00,Route 66,1903,30,Dry,Cloudy,Wednesday,Yes
+782,21:00:00,Park Avenue,1455,44,Wet,Cloudy,Monday,No
+783,22:00:00,Interstate 5,1295,42,Congested,Foggy,Wednesday,Yes
+784,23:00:00,Central Boulevard,554,49,Wet,Rainy,Wednesday,Yes
+785,00:00:00,Highway A1,1945,65,Wet,Cloudy,Friday,No
+786,01:00:00,City Road B,1565,65,Dry,Sunny,Sunday,No
+787,02:00:00,Main Street,1579,53,Wet,Sunny,Friday,Yes
+788,03:00:00,Park Avenue,1471,48,Congested,Clear,Sunday,Yes
+789,04:00:00,Park Avenue,734,72,Wet,Sunny,Saturday,Yes
+790,05:00:00,Central Boulevard,1057,56,Dry,Foggy,Sunday,No
+791,06:00:00,Park Avenue,773,47,Congested,Sunny,Sunday,No
+792,07:00:00,Main Street,765,56,Wet,Rainy,Thursday,Yes
+793,08:00:00,City Road B,1242,67,Dry,Rainy,Thursday,No
+794,09:00:00,City Road B,996,69,Dry,Rainy,Friday,Yes
+795,10:00:00,Interstate 5,1730,65,Wet,Cloudy,Monday,Yes
+796,11:00:00,Main Street,1442,39,Congested,Foggy,Thursday,No
+797,12:00:00,City Road B,1510,76,Wet,Cloudy,Monday,No
+798,13:00:00,Main Street,1257,31,Wet,Clear,Tuesday,No
+799,14:00:00,Central Boulevard,928,78,Wet,Clear,Wednesday,No
+800,15:00:00,Route 66,1932,65,Congested,Sunny,Friday,No
+801,16:00:00,Main Street,848,47,Wet,Sunny,Wednesday,Yes
+802,17:00:00,Central Boulevard,1248,48,Wet,Sunny,Friday,No
+803,18:00:00,Central Boulevard,1326,79,Dry,Rainy,Saturday,No
+804,19:00:00,Main Street,1267,32,Congested,Clear,Friday,No
+805,20:00:00,Central Boulevard,911,30,Dry,Sunny,Tuesday,No
+806,21:00:00,Main Street,1380,56,Dry,Sunny,Wednesday,Yes
+807,22:00:00,Interstate 5,1017,75,Wet,Foggy,Sunday,No
+808,23:00:00,Route 66,790,42,Dry,Sunny,Saturday,Yes
+809,00:00:00,Central Boulevard,1481,78,Congested,Clear,Wednesday,No
+810,01:00:00,Interstate 5,832,69,Dry,Clear,Saturday,No
+811,02:00:00,Interstate 5,1197,32,Dry,Clear,Wednesday,No
+812,03:00:00,Central Boulevard,1245,42,Dry,Foggy,Saturday,Yes
+813,04:00:00,Main Street,900,42,Wet,Cloudy,Thursday,Yes
+814,05:00:00,Central Boulevard,1979,34,Congested,Foggy,Saturday,Yes
+815,06:00:00,Highway A1,1542,49,Congested,Clear,Thursday,No
+816,07:00:00,Park Avenue,1198,61,Dry,Sunny,Wednesday,No
+817,08:00:00,Route 66,1780,32,Congested,Rainy,Tuesday,No
+818,09:00:00,Main Street,869,78,Congested,Sunny,Sunday,Yes
+819,10:00:00,Main Street,1169,63,Dry,Sunny,Friday,Yes
+820,11:00:00,Interstate 5,828,31,Wet,Clear,Monday,No
+821,12:00:00,Main Street,1683,76,Dry,Sunny,Monday,No
+822,13:00:00,Highway A1,825,56,Dry,Clear,Tuesday,Yes
+823,14:00:00,Main Street,1810,42,Congested,Cloudy,Thursday,Yes
+824,15:00:00,Park Avenue,1857,68,Congested,Cloudy,Friday,No
+825,16:00:00,Highway A1,1585,30,Dry,Rainy,Monday,Yes
+826,17:00:00,City Road B,1345,71,Congested,Rainy,Thursday,No
+827,18:00:00,Route 66,1986,57,Dry,Foggy,Wednesday,Yes
+828,19:00:00,Main Street,917,62,Congested,Cloudy,Tuesday,No
+829,20:00:00,Main Street,1681,80,Dry,Foggy,Monday,No
+830,21:00:00,Main Street,1899,49,Wet,Clear,Tuesday,Yes
+831,22:00:00,Central Boulevard,593,32,Wet,Rainy,Monday,Yes
+832,23:00:00,Park Avenue,1814,33,Congested,Sunny,Wednesday,No
+833,00:00:00,Route 66,1763,64,Wet,Clear,Monday,No
+834,01:00:00,Highway A1,1323,38,Wet,Rainy,Thursday,No
+835,02:00:00,City Road B,1153,67,Wet,Rainy,Wednesday,No
+836,03:00:00,Main Street,966,57,Congested,Cloudy,Thursday,No
+837,04:00:00,Central Boulevard,1746,54,Congested,Foggy,Wednesday,Yes
+838,05:00:00,Route 66,515,39,Congested,Foggy,Monday,Yes
+839,06:00:00,Highway A1,1867,30,Wet,Clear,Saturday,No
+840,07:00:00,City Road B,1415,68,Wet,Clear,Friday,No
+841,08:00:00,Route 66,1759,52,Dry,Sunny,Friday,Yes
+842,09:00:00,Route 66,1544,37,Congested,Rainy,Wednesday,No
+843,10:00:00,Route 66,1512,49,Wet,Foggy,Sunday,Yes
+844,11:00:00,Interstate 5,1712,68,Congested,Clear,Tuesday,No
+845,12:00:00,Highway A1,1198,63,Wet,Cloudy,Wednesday,Yes
+846,13:00:00,Main Street,981,70,Congested,Foggy,Thursday,No
+847,14:00:00,Park Avenue,730,46,Dry,Clear,Friday,Yes
+848,15:00:00,Park Avenue,918,58,Wet,Rainy,Wednesday,No
+849,16:00:00,Highway A1,1110,32,Dry,Cloudy,Monday,Yes
+850,17:00:00,Main Street,870,55,Wet,Rainy,Friday,No
+851,18:00:00,City Road B,1892,47,Congested,Clear,Wednesday,Yes
+852,19:00:00,Route 66,559,60,Congested,Clear,Thursday,Yes
+853,20:00:00,Park Avenue,925,69,Wet,Clear,Friday,No
+854,21:00:00,Main Street,1886,68,Wet,Rainy,Friday,Yes
+855,22:00:00,Route 66,1317,31,Dry,Rainy,Monday,Yes
+856,23:00:00,Interstate 5,801,32,Congested,Clear,Tuesday,No
+857,00:00:00,Route 66,817,48,Wet,Clear,Monday,Yes
+858,01:00:00,Highway A1,995,38,Dry,Sunny,Thursday,No
+859,02:00:00,Highway A1,1190,46,Wet,Foggy,Monday,No
+860,03:00:00,Interstate 5,1853,49,Dry,Cloudy,Monday,No
+861,04:00:00,Main Street,1997,52,Wet,Rainy,Tuesday,No
+862,05:00:00,Route 66,1906,62,Wet,Rainy,Saturday,No
+863,06:00:00,Interstate 5,1873,73,Congested,Clear,Tuesday,No
+864,07:00:00,Central Boulevard,1323,51,Congested,Cloudy,Friday,Yes
+865,08:00:00,Interstate 5,1867,34,Wet,Foggy,Monday,No
+866,09:00:00,Main Street,531,31,Dry,Foggy,Monday,No
+867,10:00:00,Route 66,1467,79,Congested,Sunny,Thursday,No
+868,11:00:00,Central Boulevard,704,56,Wet,Foggy,Sunday,Yes
+869,12:00:00,Central Boulevard,1107,56,Dry,Rainy,Monday,No
+870,13:00:00,Central Boulevard,1130,55,Dry,Clear,Saturday,No
+871,14:00:00,Highway A1,1409,33,Dry,Cloudy,Saturday,Yes
+872,15:00:00,Highway A1,1168,32,Wet,Foggy,Thursday,Yes
+873,16:00:00,City Road B,767,72,Congested,Rainy,Friday,No
+874,17:00:00,Interstate 5,801,39,Dry,Sunny,Thursday,Yes
+875,18:00:00,Main Street,792,72,Dry,Cloudy,Sunday,No
+876,19:00:00,Park Avenue,657,66,Dry,Cloudy,Sunday,Yes
+877,20:00:00,Interstate 5,519,38,Dry,Rainy,Sunday,No
+878,21:00:00,Main Street,753,42,Congested,Cloudy,Thursday,No
+879,22:00:00,Route 66,584,50,Wet,Sunny,Monday,No
+880,23:00:00,Park Avenue,1280,59,Dry,Cloudy,Wednesday,No
+881,00:00:00,Interstate 5,1418,33,Wet,Cloudy,Monday,No
+882,01:00:00,Park Avenue,1121,66,Wet,Sunny,Thursday,No
+883,02:00:00,Highway A1,1063,50,Congested,Foggy,Friday,Yes
+884,03:00:00,Route 66,649,47,Wet,Clear,Monday,Yes
+885,04:00:00,Park Avenue,1704,59,Dry,Sunny,Wednesday,No
+886,05:00:00,City Road B,1381,76,Congested,Clear,Wednesday,Yes
+887,06:00:00,Central Boulevard,1497,50,Dry,Sunny,Wednesday,No
+888,07:00:00,Route 66,757,56,Congested,Cloudy,Tuesday,Yes
+889,08:00:00,Main Street,914,58,Dry,Rainy,Thursday,Yes
+890,09:00:00,Central Boulevard,1440,62,Congested,Sunny,Saturday,Yes
+891,10:00:00,City Road B,1311,67,Wet,Sunny,Monday,No
+892,11:00:00,Central Boulevard,642,55,Dry,Rainy,Friday,Yes
+893,12:00:00,Park Avenue,1745,66,Wet,Clear,Friday,No
+894,13:00:00,Route 66,700,40,Congested,Foggy,Tuesday,No
+895,14:00:00,Route 66,1875,58,Wet,Rainy,Friday,No
+896,15:00:00,Main Street,650,62,Congested,Rainy,Thursday,No
+897,16:00:00,Highway A1,1235,76,Dry,Foggy,Wednesday,Yes
+898,17:00:00,Highway A1,698,36,Congested,Clear,Thursday,No
+899,18:00:00,City Road B,714,47,Wet,Sunny,Wednesday,No
+900,19:00:00,Route 66,531,73,Dry,Cloudy,Wednesday,Yes
+901,20:00:00,Highway A1,1110,56,Dry,Sunny,Friday,Yes
+902,21:00:00,Central Boulevard,1703,55,Congested,Cloudy,Sunday,No
+903,22:00:00,Interstate 5,1000,61,Dry,Cloudy,Friday,Yes
+904,23:00:00,Park Avenue,836,55,Wet,Rainy,Thursday,No
+905,00:00:00,Central Boulevard,866,79,Dry,Rainy,Sunday,No
+906,01:00:00,Highway A1,1998,35,Wet,Foggy,Thursday,No
+907,02:00:00,Highway A1,1972,38,Wet,Sunny,Sunday,Yes
+908,03:00:00,Highway A1,1675,45,Congested,Clear,Tuesday,Yes
+909,04:00:00,Route 66,1614,45,Congested,Cloudy,Thursday,No
+910,05:00:00,Central Boulevard,1118,68,Congested,Clear,Sunday,No
+911,06:00:00,Highway A1,1148,57,Congested,Clear,Sunday,Yes
+912,07:00:00,Main Street,537,47,Congested,Rainy,Thursday,Yes
+913,08:00:00,Highway A1,574,75,Congested,Cloudy,Tuesday,No
+914,09:00:00,Park Avenue,1074,44,Congested,Rainy,Friday,No
+915,10:00:00,Highway A1,730,40,Wet,Clear,Sunday,No
+916,11:00:00,Interstate 5,1208,47,Wet,Clear,Tuesday,No
+917,12:00:00,Main Street,1090,72,Wet,Cloudy,Wednesday,Yes
+918,13:00:00,Interstate 5,710,64,Dry,Cloudy,Wednesday,No
+919,14:00:00,Park Avenue,550,72,Wet,Sunny,Friday,No
+920,15:00:00,Route 66,1922,56,Congested,Clear,Sunday,No
+921,16:00:00,City Road B,679,67,Wet,Rainy,Monday,No
+922,17:00:00,Central Boulevard,572,52,Wet,Rainy,Tuesday,Yes
+923,18:00:00,Interstate 5,966,31,Dry,Rainy,Tuesday,No
+924,19:00:00,City Road B,1230,42,Congested,Cloudy,Sunday,Yes
+925,20:00:00,Interstate 5,699,53,Congested,Foggy,Tuesday,No
+926,21:00:00,City Road B,1631,62,Wet,Rainy,Sunday,Yes
+927,22:00:00,Route 66,1657,51,Congested,Cloudy,Thursday,Yes
+928,23:00:00,Main Street,777,70,Dry,Rainy,Tuesday,No
+929,00:00:00,Main Street,1957,66,Dry,Foggy,Monday,Yes
+930,01:00:00,Interstate 5,1252,60,Wet,Cloudy,Tuesday,No
+931,02:00:00,Park Avenue,574,62,Congested,Clear,Saturday,No
+932,03:00:00,Main Street,811,76,Congested,Clear,Wednesday,No
+933,04:00:00,Highway A1,929,80,Dry,Sunny,Friday,Yes
+934,05:00:00,Main Street,1155,49,Dry,Rainy,Tuesday,Yes
+935,06:00:00,Main Street,1880,67,Wet,Cloudy,Saturday,No
+936,07:00:00,Park Avenue,1894,48,Congested,Cloudy,Friday,Yes
+937,08:00:00,City Road B,1469,77,Congested,Clear,Tuesday,Yes
+938,09:00:00,City Road B,1469,31,Congested,Rainy,Friday,No
+939,10:00:00,Park Avenue,1453,73,Congested,Clear,Wednesday,No
+940,11:00:00,City Road B,1815,64,Congested,Rainy,Wednesday,No
+941,12:00:00,Main Street,1071,56,Dry,Clear,Monday,No
+942,13:00:00,Interstate 5,1629,47,Dry,Rainy,Wednesday,Yes
+943,14:00:00,Central Boulevard,1349,38,Congested,Foggy,Tuesday,No
+944,15:00:00,Interstate 5,1851,58,Wet,Rainy,Saturday,Yes
+945,16:00:00,City Road B,1610,59,Wet,Rainy,Sunday,Yes
+946,17:00:00,City Road B,1854,59,Dry,Clear,Sunday,Yes
+947,18:00:00,Main Street,657,30,Wet,Foggy,Wednesday,No
+948,19:00:00,Route 66,887,60,Congested,Sunny,Friday,Yes
+949,20:00:00,Highway A1,1059,39,Dry,Sunny,Monday,Yes
+950,21:00:00,Interstate 5,850,43,Wet,Foggy,Tuesday,No
+951,22:00:00,Main Street,1544,32,Congested,Foggy,Wednesday,Yes
+952,23:00:00,Route 66,1856,68,Wet,Sunny,Saturday,No
+953,00:00:00,Highway A1,1288,47,Wet,Foggy,Wednesday,No
+954,01:00:00,Main Street,1989,66,Wet,Rainy,Thursday,Yes
+955,02:00:00,City Road B,1715,32,Wet,Clear,Tuesday,No
+956,03:00:00,Route 66,687,36,Dry,Cloudy,Wednesday,Yes
+957,04:00:00,Main Street,653,77,Congested,Clear,Friday,No
+958,05:00:00,Central Boulevard,1055,42,Congested,Sunny,Saturday,No
+959,06:00:00,Central Boulevard,1104,46,Wet,Sunny,Monday,No
+960,07:00:00,Interstate 5,1840,46,Congested,Cloudy,Monday,Yes
+961,08:00:00,Central Boulevard,1054,57,Congested,Foggy,Tuesday,No
+962,09:00:00,Route 66,1258,49,Congested,Foggy,Thursday,Yes
+963,10:00:00,Interstate 5,1592,52,Wet,Sunny,Tuesday,Yes
+964,11:00:00,City Road B,1120,78,Dry,Clear,Thursday,No
+965,12:00:00,Interstate 5,1104,42,Wet,Foggy,Wednesday,Yes
+966,13:00:00,Interstate 5,643,57,Dry,Rainy,Friday,Yes
+967,14:00:00,Interstate 5,786,45,Dry,Cloudy,Wednesday,No
+968,15:00:00,City Road B,1164,62,Congested,Clear,Thursday,No
+969,16:00:00,Main Street,1414,38,Wet,Clear,Thursday,No
+970,17:00:00,Route 66,1171,38,Dry,Foggy,Tuesday,No
+971,18:00:00,Highway A1,1610,46,Wet,Sunny,Saturday,Yes
+972,19:00:00,Central Boulevard,534,60,Wet,Clear,Tuesday,No
+973,20:00:00,Park Avenue,1681,79,Congested,Clear,Sunday,Yes
+974,21:00:00,Highway A1,1470,71,Congested,Rainy,Wednesday,Yes
+975,22:00:00,Park Avenue,1808,34,Wet,Foggy,Sunday,No
+976,23:00:00,City Road B,1758,71,Dry,Rainy,Monday,No
+977,00:00:00,Central Boulevard,1263,38,Wet,Foggy,Thursday,Yes
+978,01:00:00,Interstate 5,1398,32,Dry,Clear,Friday,Yes
+979,02:00:00,Highway A1,1080,74,Dry,Cloudy,Tuesday,No
+980,03:00:00,City Road B,1311,47,Congested,Cloudy,Monday,Yes
+981,04:00:00,Park Avenue,1334,80,Dry,Rainy,Monday,No
+982,05:00:00,Highway A1,510,64,Wet,Rainy,Thursday,No
+983,06:00:00,Interstate 5,1762,59,Congested,Foggy,Thursday,No
+984,07:00:00,Highway A1,1284,49,Wet,Foggy,Wednesday,Yes
+985,08:00:00,Main Street,1357,46,Wet,Foggy,Monday,Yes
+986,09:00:00,Park Avenue,1593,60,Congested,Sunny,Saturday,Yes
+987,10:00:00,Central Boulevard,744,48,Wet,Clear,Wednesday,No
+988,11:00:00,Park Avenue,522,56,Wet,Clear,Saturday,No
+989,12:00:00,Highway A1,1451,64,Wet,Rainy,Tuesday,Yes
+990,13:00:00,Main Street,950,72,Dry,Foggy,Wednesday,Yes
+991,14:00:00,Park Avenue,1029,64,Congested,Rainy,Friday,Yes
+992,15:00:00,Interstate 5,1807,56,Dry,Rainy,Friday,Yes
+993,16:00:00,Highway A1,1672,77,Dry,Clear,Tuesday,No
+994,17:00:00,Park Avenue,1344,62,Congested,Sunny,Wednesday,No
+995,18:00:00,City Road B,767,74,Congested,Sunny,Friday,No
+996,19:00:00,Main Street,1487,67,Congested,Rainy,Thursday,No
+997,20:00:00,Route 66,1030,74,Dry,Clear,Monday,No
+998,21:00:00,Highway A1,1697,74,Dry,Foggy,Sunday,Yes
+999,22:00:00,Central Boulevard,1949,46,Wet,Sunny,Sunday,Yes
+1000,23:00:00,Central Boulevard,1929,31,Congested,Clear,Friday,Yes
