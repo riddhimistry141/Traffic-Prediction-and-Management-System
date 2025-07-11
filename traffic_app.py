@@ -6,7 +6,7 @@ import seaborn as sns
 import os
 
 # Set base directory to the current working directory (root of the repo)
-base_dir = os.path.dirname(os.path.abspath("https://github.com/riddhimistry141/Traffic-Prediction-and-Management-System"))
+base_dir = os.path.dirname(os.path.abspath("https://github.com/riddhimistry141/Traffic-Prediction-and-Management-System.git"))
 
 # Load model, label encoders, and accuracy
 model = joblib.load(os.path.join(base_dir, 'traffic_model.pkl'))
