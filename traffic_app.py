@@ -5,22 +5,19 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Set base directory to AI Project folder on Desktop
-base_dir = os.path.join(os.path.expanduser("~"), "OneDrive", "Desktop", "AI Project")
-
 # Load model and label encoders
-model = joblib.load(os.path.join(base_dir, 'traffic_model.pkl'))
-le_location = joblib.load(os.path.join(base_dir, 'le_location.pkl'))
-le_road_condition = joblib.load(os.path.join(base_dir, 'le_road_condition.pkl'))
-le_weather = joblib.load(os.path.join(base_dir, 'le_weather.pkl'))
-le_day = joblib.load(os.path.join(base_dir, 'le_day.pkl'))
-le_incident = joblib.load(os.path.join(base_dir, 'le_incident.pkl'))
+model = joblib.load('traffic_model.pkl')
+le_location = joblib.load('le_location.pkl')
+le_road_condition = joblib.load('le_road_condition.pkl')
+le_weather = joblib.load('le_weather.pkl')
+le_day = joblib.load('le_day.pkl')
+le_incident = joblib.load('le_incident.pkl')
 
 # Load dataset
-df = pd.read_csv(os.path.join(base_dir, "traffic_prediction_dataset_large (1000).csv"))
+df = pd.read_csv("traffic_prediction_dataset_large (1000).csv")
 
-# Convert Timestamp to datetime (adjust format based on your data, e.g., from previous fix)
-df['Timestamp'] = pd.to_datetime('2025-07-06 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
+# Convert Timestamp to datetime (adjusted to correct date format)
+df['Timestamp'] = pd.to_datetime('2025-07-11 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
 df['Hour'] = df['Timestamp'].dt.hour
 
 # Streamlit app
@@ -33,16 +30,16 @@ st.write(df)
 # Display visualizations
 st.header("Exploratory Data Analysis")
 st.subheader("Traffic Volume by Hour")
-st.image(os.path.join(base_dir, "traffic_volume_by_hour.png"))
+st.image("traffic_volume_by_hour.png")
 
 st.subheader("Average Speed by Weather")
-st.image(os.path.join(base_dir, "speed_by_weather.png"))
+st.image("speed_by_weather.png")
 
 st.subheader("Traffic Volume by Road Condition")
-st.image(os.path.join(base_dir, "traffic_by_road_condition.png"))
+st.image("traffic_by_road_condition.png")
 
 st.subheader("Traffic Volume by Incident Reported")
-st.image(os.path.join(base_dir, "traffic_by_incident.png"))
+st.image("traffic_by_incident.png")
 
 # User input for prediction
 st.header("Predict Traffic Volume")
@@ -70,7 +67,7 @@ if st.button("Predict"):
 
 # Download dataset
 st.header("Download Dataset")
-with open(os.path.join(base_dir, "traffic_prediction_dataset_large (1000).csv"), "rb") as file:
+with open("traffic_prediction_dataset_large (1000).csv", "rb") as file:
     st.download_button(
         label="Download traffic_prediction_dataset_large (1000).csv",
         data=file,
