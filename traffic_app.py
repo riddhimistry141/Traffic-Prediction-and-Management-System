@@ -5,31 +5,26 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Set base directory to the current working directory (root of the repo)
-base_dir = os.path.dirname(os.path.abspath("https://github.com/riddhimistry141/Traffic-Prediction-and-Management-System.git"))
+# Set base directory to AI Project folder on Desktop
+base_dir = os.path.join(os.path.expanduser("~"), "OneDrive", "Desktop", "AI Project")
 
-# Load model, label encoders, and accuracy
+# Load model and label encoders
 model = joblib.load(os.path.join(base_dir, 'traffic_model.pkl'))
 le_location = joblib.load(os.path.join(base_dir, 'le_location.pkl'))
 le_road_condition = joblib.load(os.path.join(base_dir, 'le_road_condition.pkl'))
 le_weather = joblib.load(os.path.join(base_dir, 'le_weather.pkl'))
 le_day = joblib.load(os.path.join(base_dir, 'le_day.pkl'))
 le_incident = joblib.load(os.path.join(base_dir, 'le_incident.pkl'))
-accuracy = joblib.load(os.path.join(base_dir, 'model_accuracy.pkl'))
 
 # Load dataset
 df = pd.read_csv(os.path.join(base_dir, "traffic_prediction_dataset_large (1000).csv"))
 
-# Convert Timestamp to datetime with time-only data, using current date as base
-df['Timestamp'] = pd.to_datetime('2025-07-11 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
+# Convert Timestamp to datetime (adjust format based on your data, e.g., from previous fix)
+df['Timestamp'] = pd.to_datetime('2025-07-06 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
 df['Hour'] = df['Timestamp'].dt.hour
 
 # Streamlit app
 st.title("Traffic Prediction and Management System")
-
-# Display model accuracy
-st.header("Model Performance")
-st.write(f"Model Test R² Score: {accuracy:.2f}")
 
 # Display dataset
 st.header("Traffic Dataset")

@@ -3,14 +3,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Set base directory to project folder under Desktop
-base_dir = os.path.join(os.path.expanduser("~"), "Desktop", "project")
+# Set base directory to AI Project folder under OneDrive Desktop
+base_dir = os.path.join(os.path.expanduser("~"), "OneDrive", "Desktop", "AI Project")
 
 # Load the dataset
 df = pd.read_csv(os.path.join(base_dir, "traffic_prediction_dataset_large (1000).csv"))
 
-# Convert Timestamp to datetime with specified format (adjust format as needed)
-df['Timestamp'] = pd.to_datetime('2025-07-11 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
+# Convert Timestamp to datetime with time-only format, using current date as base
+df['Timestamp'] = pd.to_datetime('2025-07-06 ' + df['Timestamp'], format='%Y-%m-%d %H:%M:%S')
 
 df['Hour'] = df['Timestamp'].dt.hour
 
