@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Set base directory to AI Project folder on Desktop
-base_dir = os.path.join(os.path.expanduser("~"), "Desktop", "project")
+# Set base directory to the current working directory (root of the repo)
+base_dir = os.path.dirname(os.path.abspath("https://github.com/riddhimistry141/Traffic-Prediction-and-Management-System"))
 
 # Load model, label encoders, and accuracy
 model = joblib.load(os.path.join(base_dir, 'traffic_model.pkl'))
